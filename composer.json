@@ -5,6 +5,6 @@
   "homepage": "https://github.com/webtechnick/CakePHP-FileUpload-Plugin",
   "require" : {
     "php": ">=5.2",
-    "cakephp/cakephp" : "2.*"
+    "cakephp/cakephp": "~2.5",
   }
 }
