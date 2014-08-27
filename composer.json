@@ -1,5 +1,5 @@
 {
-  "name": "file-upload/file-upload",
+  "name": "fileUpload/fileUpload",
   "description": "File Upload Plugin.",
   "type": "cakephp-plugin",
   "homepage": "https://github.com/webtechnick/CakePHP-FileUpload-Plugin",
