@@ -6,6 +6,21 @@
 
 # INSTALL
 
+using composer
+add repository into your composer.json
+
+"repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/alevilar/CakePHP-FileUpload-Plugin"
+        },
+
+"require": {
+ 	     ....
+	     "cakephp/file_upload": "2.*"
+	},
+
+
 clone into your `app/plugins/file_upload` directory
 	
 	git clone git://github.com/webtechnick/CakePHP-FileUpload-Plugin.git app/plugins/file_upload
