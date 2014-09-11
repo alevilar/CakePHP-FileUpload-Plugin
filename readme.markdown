@@ -271,7 +271,7 @@ If you wish to *NOT* use a model simply set `$this->FileUpload->fileModel(null);
 
 OR
 	
-	<?= $fileUpload->input(array('var' => 'file', 'model' => false)); ?>
+	<?php echo $fileUpload->input(array('var' => 'file', 'model' => false)); ?>
 
 #### Multiple File Uploading
 The helper will do all the work for you, just output input multiple times and the rest will be done for you.
